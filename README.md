@@ -1,6 +1,15 @@
 # Hi there 👋
 
-I'm Shashwat Rai, a passionate Flutter developer and UI/UX designer. Welcome to my GitHub profile!
+ 
+Hi, I'm **Shashwat Rai**, a **Flutter Developer** and **Tech Enthusiast** who enjoys building scalable applications. I lead multiple technical communities and actively participate in hackathons.  
+
+- **🏆 Hackathon Achievements** | SIH '24 Winner
+- **📱 Flutter & Firebase Developer** | Former Intern @RoomsVital  
+- **👨‍💻 Technical Lead @E-Cell KIET | GDSC App Dev Captain**  
+- **🚀 Organized E-Summit 2024, SprintHacks 2.0 & IEEE SSH 2024**  
+
+Focused on **app development & UI/UX design**, always open to collaboration.  
+
 
 ## 🔧 Technologies & Tools
 
@@ -21,7 +30,7 @@ I'm currently diving deeper into:
 ### KICK THAT FITS (https://github.com/shashwatrai05/ktf)
 Created a shoe shopping app with a Firebase backend, seamlessly incorporating Snapchat AR filters for virtual try-ons.
 
-### CHITCHAT (https://github.com/shashwatrai05/Chat.app)
+### UDDE (https://github.com/shashwatrai05/Chat.app)
 Developed a real-time chatting application using Firebase Firestore for seamless communication.
 
 Feel free to explore my repositories for more projects!
