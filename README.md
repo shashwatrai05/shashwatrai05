@@ -3,10 +3,10 @@
 I'm **Shashwat Rai**, a **Software Development Engineer** and **Full-Stack Developer** passionate about building scalable applications and leading technical communities.
 
 ## 🌱 Currently Working On
-Advanced Cloud Architecture (GCP, AWS)
-Microservices with Docker & Kubernetes
-Data Analytics
-DevOps practices and CI/CD pipelines
+- Advanced Cloud Architecture (GCP, AWS)
+- Microservices with Docker & Kubernetes
+- Data Analytics
+- DevOps practices and CI/CD pipelines
 
 ## 📧 To reach me over DM
 **Email**: shashwatrai575@gmail.com
