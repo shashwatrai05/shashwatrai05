@@ -5,23 +5,7 @@ Hi, I'm **Shashwat Rai**, a **Software Development Engineer** and **Full-Stack D
 - 🏆 **Smart India Hackathon 2024 Winner** | National Level Competition
 - 💼 **Former SDE Intern @RoomsVital** | Mobile & Backend Development
 - 👨‍💻 **GDG Community Manager @KIET** | Leading 1,500+ developers
-- 🚀 **E-Cell Technical Secretary** | Organizing major tech events
-- 📱 **Cross-Platform Developer** | Flutter, React, Node.js Expert
-- 🎓 **B.Tech CSE Student** | 8.4 CGPA @KIET Group of Institutions
-
-## 🚀 Professional Experience
-
-### Software Development Engineer Intern | RoomsVital (Remote)
-*Jan 2024 – Jul 2024*
-- Developed **cross-platform Flutter mobile applications** with NodeJS backend APIs for IoT smart home automation
-- Implemented **MQTT protocol** for real-time device communication, reducing system latency by **40%**
-- Built secure authentication systems using **JWT tokens** with **90% test coverage**
-
-### Mobile Application Developer Intern | Ambuvians Healthcare
-*Aug 2023 – Oct 2023*
-- Led development team for **Flutter healthcare application** with telemedicine features
-- Designed **RESTful APIs** using NodeJS and Express.js with JWT authentication
-- Optimized performance and reduced crash rate by **30%**
+- 🚀 **E-Cell Technical Secretary** | Organizing major tech event
 
 ## 🛠️ Technical Skills
 
@@ -91,36 +75,11 @@ Hi, I'm **Shashwat Rai**, a **Software Development Engineer** and **Full-Stack D
 - Implemented secure user authentication and chat rooms
 - [View Project](https://github.com/shashwatrai05/Chat.app)
 
-## 🏆 Achievements & Leadership
-
-### 🥇 Smart India Hackathon 2024 Winner
-**Government of NCT of Delhi** | *National Level Competition*
-- Led winning team in developing innovative solutions for government challenges
-
-### 👥 Google Developer Groups (GDG) Community Manager
-**KIET Group of Institutions** | *Sept 2024 – Present*
-- Leading software development projects for **1,500+ community members**
-- Mentoring students in web and mobile development technologies
-
-### 🚀 Entrepreneurship Cell (E-CELL) Technical Secretary
-**KIET Group of Institutions** | *Dec 2022 – Present*
-- Developed startup ecosystem applications serving **100+ users**
-- Coordinated technical tasks for major entrepreneurship events
-
-## 📚 Core Competencies
-- **Data Structures & Algorithms**
-- **Object-Oriented Programming**
-- **Operating Systems**
-- **Database Management Systems**
-- **Computer Networks**
-- **IoT & Real-time Systems**
-- **RESTful API Design**
-- **Automated Testing**
 
 ## 🌱 Currently Learning
 - Advanced **Cloud Architecture** (GCP, AWS)
 - **Microservices** with Docker & Kubernetes
-- **Machine Learning** with Python
+- **Data Analytics**
 - **DevOps** practices and CI/CD pipelines
 
 ## 📝 Blog & Writing
