@@ -1,11 +1,30 @@
 # Hi there 👋
 
-Hi, I'm **Shashwat Rai**, a **Software Development Engineer** and **Full-Stack Developer** passionate about building scalable applications and leading technical communities.
+I'm **Shashwat Rai**, a **Software Development Engineer** and **Full-Stack Developer** passionate about building scalable applications and leading technical communities.
 
-- 🏆 **Smart India Hackathon 2024 Winner** | National Level Competition
-- 💼 **Former SDE Intern @RoomsVital** | Mobile & Backend Development
-- 👨‍💻 **GDG Community Manager @KIET** | Leading 1,500+ developers
-- 🚀 **E-Cell Technical Secretary** | Organizing major tech event
+## 🌱 Currently Working On
+Advanced Cloud Architecture (GCP, AWS)
+Microservices with Docker & Kubernetes
+Data Analytics
+DevOps practices and CI/CD pipelines
+
+## 📧 To reach me over DM
+**Email**: shashwatrai575@gmail.com
+
+## 🤝 Connect with Me
+
+<a href="https://www.linkedin.com/in/shashwatrai05/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/shashwatrai05" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://github.com/shashwatrai05" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:shashwatrai575@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ## 🛠️ Technical Skills
 
@@ -43,68 +62,14 @@ Hi, I'm **Shashwat Rai**, a **Software Development Engineer** and **Full-Stack D
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🏗️ Featured Projects
+## 📝 Blogs & Writing
 
-### 🏛️ Pardarsh Public Tender Platform
-**Full-Stack Web & Mobile Development** | *Nov 2024 – Present*
-- Built responsive web application using **ReactJS** frontend and **NodeJS** backend
-- Integrated **MongoDB** database with JWT authentication and role-based access control
-- Developed companion **Flutter mobile app** for seamless cross-platform experience
-
-### 🚌 BusTech Intelligent Transport System
-**Algorithm Design & Full-Stack Development** | *Sep 2024 – Dec 2024*
-- Developed **genetic algorithm** using Java for automated bus route scheduling
-- Improved operational efficiency by **70%** for Delhi Transport Corporation
-- Created Flutter mobile app with **QR code ticketing** and real-time bus tracking
-
-### 🏢 UDDESHHYA Enterprise Resource Planning
-**Mobile Application Development** | *Sep 2024 – Oct 2024*
-- Developed mobile application with **Firebase backend** for NGO resource management
-- Supporting **500+ users** with automated attendance tracking and event management
-- Implemented role-based permissions with **real-time data synchronization**
-
-### 👟 KICK THAT FITS
-**AR-Enhanced E-Commerce App**
-- Created shoe shopping app with Firebase backend
-- Integrated **Snapchat AR filters** for virtual try-ons
-- [View Project](https://github.com/shashwatrai05/ktf)
-
-### 💬 UDDE Chat Application
-**Real-time Communication App**
-- Built using **Firebase Firestore** for seamless real-time messaging
-- Implemented secure user authentication and chat rooms
-- [View Project](https://github.com/shashwatrai05/Chat.app)
-
-
-## 🌱 Currently Learning
-- Advanced **Cloud Architecture** (GCP, AWS)
-- **Microservices** with Docker & Kubernetes
-- **Data Analytics**
-- **DevOps** practices and CI/CD pipelines
-
-## 📝 Blog & Writing
 I share my thoughts and experiences on my blog:
 
 📖 **"A Year in College"** - Reflecting on my journey in tech education
+
 <a href="https://medium.com/@shashwatrai05/a-year-in-the-college-46d62e1fe132" target="_blank">
-  <img align="left" alt="medium" height="30px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<br><br>
-
-## 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/shashwatrai05/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/shashwatrai05" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://github.com/shashwatrai05" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:shashwatrai575@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 ## 📊 GitHub Stats
